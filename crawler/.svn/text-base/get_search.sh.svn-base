@@ -1,6 +1,0 @@
-while true
-do
-./Release/get_search --username dkletran --password taolatao --proxy-port 3128 --proxy-host 10.193.21.180 --consumer-key NWqNyXhmlwJo5BRtwnWRQ --consumer-secret TOBM19autzHGgdlAQGtavei6V5Hc74h3sFg0jLcQ
-echo "wait 1h to restart search"
-sleep 3600
-done
