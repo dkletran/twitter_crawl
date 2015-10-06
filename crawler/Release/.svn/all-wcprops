@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release
+END
+get_links
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/get_links
+END
+get_search
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/get_search
+END
+get_favourites
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/get_favourites
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/sources.mk
+END
+libjson_crawler.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/libjson_crawler.a
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/objects.mk
+END
+put_links
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/put_links
+END
+put_statuses_authors
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/put_statuses_authors
+END
+twitterClient_token_secret.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/twitterClient_token_secret.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/makefile
+END
+twitterClient_token_key.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/twitterClient_token_key.txt
+END
+get_status_profiles
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Release/get_status_profiles
+END

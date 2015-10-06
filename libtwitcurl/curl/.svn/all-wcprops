@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/Makefile.am
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/mprintf.h
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/stdcheaders.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curlver.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/typecheck-gcc.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/multi.h
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curlrules.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curl.h
+END
+curlbuild.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curlbuild.h.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/Makefile.in
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curlbuild.h
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/easy.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/COPYING
+END
+curlbuild.h.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dkthesis/!svn/ver/14/workspace/libtwitcurl/curl/curlbuild.h.cmake
+END

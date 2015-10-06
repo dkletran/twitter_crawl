@@ -1,0 +1,57 @@
+#########################################################
+#makefile.targets										#
+#														#
+# Created on: 26 juin 2012								#
+#     Author: ktvr5725									#
+#########################################################
+
+get_links:src/get_links.o src/database.o src/jsoncrawler.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/get_links.o src/database.o src/jsoncrawler.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '
+	
+put_links:src/put_links.o src/database.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/put_links.o src/database.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '
+	
+get_status_profiles:src/get_status_profiles.o src/database.o src/jsoncrawler.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/get_status_profiles.o src/database.o src/jsoncrawler.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '
+	
+get_favourites:src/get_favourites.o src/database.o src/jsoncrawler.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/get_favourites.o src/database.o src/jsoncrawler.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '	
+	
+get_search:src/get_search.o src/database.o src/jsoncrawler.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/get_search.o src/database.o src/jsoncrawler.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '
+put_statuses_authors:src/put_statuses_authors.o src/database.o $(USER_OBJS)
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	g++ -L"../../libtwitcurl" -L"../../jsoncpp/jsoncpp/libs/linux-gcc-4.4.1" -o $@ src/put_statuses_authors.o src/database.o $(USER_OBJS) $(LIBS)
+	@echo 'Finished building target: $@'
+	@echo ' '	
+	
+libjson_crawler: src/jsoncrawler.o $(USER_OBJS) 
+	@echo 'Building target: $@'
+	@echo 'Invoking: GCC C++ Linker'
+	ar ru libjson_crawler.a src/jsoncrawler.o $(USER_OBJS)
+	@echo 'Finished building target: $@'
+	@echo ' '	
+	
+    
+    

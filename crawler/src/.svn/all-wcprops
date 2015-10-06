@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src
+END
+database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/database.cpp
+END
+jsoncrawler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/jsoncrawler.cpp
+END
+get_status_profiles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/get_status_profiles.cpp
+END
+twitcurl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/twitcurl.h
+END
+database.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/database.h
+END
+get_links.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/get_links.cpp
+END
+get_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/get_search.cpp
+END
+jsoncrawler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/jsoncrawler.h
+END
+get_favourites.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/get_favourites.cpp
+END
+oauthlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/oauthlib.h
+END
+put_links.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/put_links.cpp
+END
+put_statuses_authors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/src/put_statuses_authors.cpp
+END

@@ -1,0 +1,4 @@
+src/put_statuses_authors.d src/put_statuses_authors.o: \
+ ../src/put_statuses_authors.cpp ../src/database.h
+
+../src/database.h:

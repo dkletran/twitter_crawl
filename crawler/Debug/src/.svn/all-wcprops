@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src
+END
+database.d
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/database.d
+END
+jsoncrawler.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/jsoncrawler.d
+END
+get_users.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/get_users.d
+END
+get_links.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/get_links.d
+END
+put_links.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/put_links.d
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/dkthesis/!svn/ver/72/workspace/twitter_crawl_2/Debug/src/subdir.mk
+END
